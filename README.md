@@ -48,7 +48,7 @@ There are the following types of issues that you can submit:
 
 
 
-In order to submit a new request or report an issue pleasego to the Issues tab on top:
+In order to submit a new request or report an issue please go to the Issues tab on top:
 
 
 
@@ -56,7 +56,7 @@ In order to submit a new request or report an issue pleasego to the Issues tab o
 
 
 
-Afterwards, please press on the green "New Issue" button to theright:
+Afterwards, please press on the green "New Issue" button to the right:
 
 
 
@@ -72,7 +72,7 @@ Select the issue type:
 
 
 
-Please fill in all the required information provided in the template and press"Submit new issue" on the bottom. There is no ne need to fill inanything else - we will take care of it for you.
+Please fill in all the required information provided in the template and press "Submit new issue" on the bottom.
 
 
 
@@ -80,7 +80,7 @@ Please fill in all the required information provided in the template and press"S
 
 
 
-Here is an additional resource that will help you fill in the requested data onbug reports correctly: [App and board logs. How to send application and boardlogs correctly](http://help.blynk.cc/en/articles/4558902-app-and-board-logs-how-to-send-application-and-board-logs-correctly).
+Here is an additional resource that will help you fill in the requested data on bug reports correctly: [App and board logs. How to send application and boardlogs correctly](http://help.blynk.cc/en/articles/4558902-app-and-board-logs-how-to-send-application-and-board-logs-correctly).
 
 
 
@@ -88,7 +88,7 @@ Here is an additional resource that will help you fill in the requested data onb
 
 
 
-All the app creation / publish progress as well as issue progress can be viewedand tracked in Projects tab:
+All the app creation / publishing progress as well as issue progress can be viewed and tracked in Projects tab:
 
 
 
@@ -104,7 +104,7 @@ You will be able to see where you are with the app and any questions or issues:
 
 
 
-All new issues created and receieved by us drop initially into the "ToDo" column. Later they move to the rest of columns:
+All new issues created and received by us drop initially into the "To Do" column. Later they move to the rest of columns:
 
 
 
@@ -112,11 +112,11 @@ All new issues created and receieved by us drop initially into the "ToDo" column
 
 
 
-"Need Info" - which means that we are expecting some information orlogs from you and won't be able to move on without them
+"Need Info" - which means that we are expecting some information or logs from you and won't be able to move on without them
 
 
 
-"Ready to Test" - which means that the issue is fixed and we ask youto test and confirm that everything is working correctly on your side
+"Ready to Test" - which means that the issue is fixed and we ask you to test and confirm that everything is working correctly on your side
 
 
 
@@ -124,4 +124,4 @@ All new issues created and receieved by us drop initially into the "ToDo" column
 
 
 
-Please note that is an issue is in the "Need Info" or "Ready toTest" column it requires action from your side.
+Please note that if an issue is in the "Need Info" or "Ready to Test" column it requires action from your side.
