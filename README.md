@@ -12,7 +12,7 @@
 
 
 | Step  | Description   | Owner   |
-| :---: |-------------  | :-----: |
+| :---: | ------------  | :-----: |
 | 1     |  [Send QR-code for cloning the project](https://docs.blynk.cc/#sharing-share-your-project-configuration) | **Customer** |
 | 2     |  Provide [branding materials](http://help.blynk.cc/en/articles/2692182-which-assets-are-required-to-publish-my-application)  | **Customer** |
 | 3     |  Create test version of the Android app  |  Blynk  |
@@ -23,7 +23,7 @@
 | 8     |  Add the final version of the app in the Android developer account  |  Blynk  |
 | 9     |  Publish the Android app |  Blynk  |
 | 10    |  Create iOS Developer Account ("as organisation" only!) | **Customer** |
-| 11    |  Invite eepetrash@gmail.com and roman@blynk.cc to [iOS Developer account](https://developer.apple.com/programs/enroll/) as Admins and give access to certificates ("Certificates, Identifiers & Profiles" section).  | **Customer** |
+| 11    |  ertg.  | **Customer** |
 | 12    |  Create test version of the iOS app  |  Blynk  |
 | 13    |  Confirm that iOS app is working correctly with your product, looks as expected and can be published | **Customer** |
 | 14    |  Add the final version of the app in the iOS developer account  |  Blynk  |
