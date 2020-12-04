@@ -9,6 +9,8 @@
 
 ### Step-by-step Android and iOS App Creation and Publishing
 
+
+
 | Step  | Description   | Owner   |
 | :---: |-------------  | :-----: |
 | 1     |  [Send QR-code for cloning the project](https://docs.blynk.cc/#sharing-share-your-project-configuration) | **Customer** |
