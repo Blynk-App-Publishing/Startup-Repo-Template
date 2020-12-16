@@ -12,10 +12,10 @@
 | Step  | Description   | Owner   |
 | :---: |-------------  | :-----: |
 | 1     |  [Send QR-code for cloning the project](https://docs.blynk.cc/#sharing-share-your-project-configuration) | **Customer** |
-| 2     |  Provide [branding materials](http://help.blynk.cc/en/articles/2692182-which-assets-are-required-to-publish-my-application)  | **Customer** |
+| 2     |  Provide [branding materials](http://help.blynk.cc/en/articles/4728076-branding-materials)  | **Customer** |
 | 3     |  Create test version of the Android app  |  Blynk  |
 | 4     |  Confirm that Android app is working correctly with your product, looks as expected and can be published | **Customer** |
-| 5     |  Prepare [publish materials](http://help.blynk.cc/en/articles/2692182-which-assets-are-required-to-publish-my-application)  | **Customer** |
+| 5     |  Prepare [publishing materials](http://help.blynk.cc/en/articles/4728052-publishing-materials)  | **Customer** |
 | 6     |  Create Android Developer Account  | **Customer** |
 | 7     |  Invite alexkipar@gmail.com and roman@blynk.cc to [Android Developer account](https://developer.android.com/distribute/console) as Admins.  | **Customer** |
 | 8     |  Add the final version of the app in the Android developer account  |  Blynk  |
