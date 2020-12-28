@@ -19,13 +19,13 @@
 | 6     |  Create Android Developer Account  | **Customer** |
 | 7     |  Invite alexkipar@gmail.com and roman@blynk.cc to [Android Developer account](https://developer.android.com/distribute/console) as Admins.  | **Customer** |
 | 8     |  Add the final version of the app in the Android developer account  |  Blynk  |
-| 9     |  Publish the Android app |  Blynk  |
+| 9     |  Publish the Android app |  **Customer**  |
 | 10    |  Create iOS Developer Account ("as organisation" only!) | **Customer** |
 | 11    |  Invite eepetrash@gmail.com and roman@blynk.cc to [iOS Developer account](https://developer.apple.com/programs/enroll/) as Admins and give access to certificates ("Certificates, Identifiers & Profiles" section).  | **Customer** |
 | 12    |  Create test version of the iOS app  |  Blynk  |
 | 13    |  Confirm that iOS app is working correctly with your product, looks as expected and can be published | **Customer** |
 | 14    |  Add the final version of the app in the iOS developer account  |  Blynk  |
-| 15    |  Publish the iOS app |  Blynk  |
+| 15    |  Publish the iOS app |  **Customer**  |
 
 
 
@@ -41,10 +41,8 @@ There are the following types of issues that you can submit:
 
 1. Project Update Request (when you would like to do some changes to your project)
 2. Branding Update Request (when you would like to do some changes to branding)
-3. Android Publish Request (official consent to publish your final version of the app in Google Play)
-4. iOS Publish Request (official consent to publish your final version of the app in App Store)
-5. Bug Report (in case you experience any issues in app performance)
-6. Question
+3. Bug Report (in case you experience any issues in app performance)
+4. Question
 
 
 
